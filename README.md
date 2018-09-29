@@ -1,2 +1,2 @@
 # Miscellany
-a group or collection of different items; a mixture.
+This repository contains programming challenges that I solve in my spare time.
